@@ -35,7 +35,7 @@ What It Solves
 
  Stay up-to-date with newly available features
 
-📖 Features
+Features
 
 Hover Panel – Hover over a CSS property, HTML tag, or JS API to see:
 
