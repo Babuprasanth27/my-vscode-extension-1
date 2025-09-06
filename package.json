@@ -2,7 +2,7 @@
   "name": "my-vscode-extension-1",
   "displayName": "Baseline Checker",
   "description": "Check if selected web features are in Baseline (Widely / Newly / Not available).",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "BabuprasanthR",
   "engines": {
     "vscode": "^1.90.0"
