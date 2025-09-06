@@ -1,7 +1,5 @@
 # Baseline Checker 🔍
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/BabuprasanthR.my-vscode-extension-1.svg)](https://marketplace.visualstudio.com/items?itemName=BabuprasanthR.my-vscode-extension-1)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/BabuprasanthR.my-vscode-extension-1.svg)](https://marketplace.visualstudio.com/items?itemName=BabuprasanthR.my-vscode-extension-1)
 
 A VS Code extension to check if selected web features are **Baseline (Widely / Newly / Not available) with the Browser Support List, Production Ready Indication**.
 
