@@ -3,13 +3,13 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/BabuprasanthR.my-vscode-extension-1.svg)](https://marketplace.visualstudio.com/items?itemName=BabuprasanthR.my-vscode-extension-1)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/BabuprasanthR.my-vscode-extension-1.svg)](https://marketplace.visualstudio.com/items?itemName=BabuprasanthR.my-vscode-extension-1)
 
-A VS Code extension to check if selected web features are **Baseline (Widely / Newly / Not available)**.
+A VS Code extension to check if selected web features are **Baseline (Widely / Newly / Not available) with the Browser Support List, Production Ready Indication**.
 
 ---
 
 ## 🚀 Features
 ✅ Check HTML, CSS, JS compatibility  
-✅ Shows results in a neat **table format**  
+✅ Shows results in a neat Format  
 ✅ Context menu shortcut: *Baseline → Check Selection*
 
 ---
@@ -24,14 +24,19 @@ A VS Code extension to check if selected web features are **Baseline (Widely / N
 
 ## 🖼️ Usage
 - Select some code (HTML/CSS/JS)  
-- Right click → *Baseline: Check Selection*  
-- See the results in a table  
+- **Right click or Hover** → *Baseline: Check Selection*  
+- See the results in a neat Format  
 
 ---
 
 ## 💡 Example
+Hover Property - In HTML
+<img width="1388" height="744" alt="image" src="https://github.com/user-attachments/assets/c404350a-b5ff-4405-b363-0030b4d39d48" />
+Hover Property - In CSS
+<img width="1422" height="832" alt="image" src="https://github.com/user-attachments/assets/cc1fd811-208f-4f05-bb2b-7f8866668406" />
 
-![demo](./icons/demo.gif)
+Hover Property - In JS
+<img width="1433" height="725" alt="image" src="https://github.com/user-attachments/assets/ad3e018a-f20a-4acb-a0e4-0c856070b9b3" />
 
 ---
 
