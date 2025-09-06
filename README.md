@@ -1,27 +1,50 @@
-# My VS Code Extension
+# Baseline Checker 🔍
 
-This is a simple VS Code extension that serves as a starting point for your development. 
+[![Version](https://vsmarketplacebadge.apphb.com/version/BabuprasanthR.my-vscode-extension-1.svg)](https://marketplace.visualstudio.com/items?itemName=BabuprasanthR.my-vscode-extension-1)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/BabuprasanthR.my-vscode-extension-1.svg)](https://marketplace.visualstudio.com/items?itemName=BabuprasanthR.my-vscode-extension-1)
 
-## Features
+A VS Code extension to check if selected web features are **Baseline (Widely / Newly / Not available) with the Browser Support List, Production Ready Indication**.
 
-- Basic functionality to get you started with VS Code extension development.
-- Easily customizable to fit your needs.
+---
 
-## Installation
+## 🚀 Features
+✅ Check HTML, CSS, JS compatibility  
+✅ Shows results in a neat Format  
+✅ Context menu shortcut: *Baseline → Check Selection*
 
-1. Clone the repository or download the ZIP file.
-2. Open the folder in VS Code.
-3. Run `npm install` to install the necessary dependencies.
+---
 
-## Usage
+## 📦 Installation
+1. Open VS Code  
+2. Go to **Extensions** (`Ctrl+Shift+X`)  
+3. Search for **Baseline Checker**  
+4. Click **Install**  
 
-1. Press `F5` to open a new VS Code window with the extension loaded.
-2. Use the command palette (`Ctrl+Shift+P`) to access the commands provided by the extension.
+---
 
-## Contributing
+## 🖼️ Usage
+- Select some code (HTML/CSS/JS)  
+- **Right click or Hover** → *Baseline: Check Selection*  
+- See the results in a neat Format  
 
-Feel free to submit issues or pull requests to improve the extension.
+---
 
-## License
+## 💡 Example
+Hover Property - In HTML
+<img width="1388" height="744" alt="image" src="https://github.com/user-attachments/assets/c404350a-b5ff-4405-b363-0030b4d39d48" />
+Hover Property - In CSS
+<img width="1422" height="832" alt="image" src="https://github.com/user-attachments/assets/cc1fd811-208f-4f05-bb2b-7f8866668406" />
 
-This project is licensed under the MIT License.
+Hover Property - In JS
+<img width="1433" height="725" alt="image" src="https://github.com/user-attachments/assets/ad3e018a-f20a-4acb-a0e4-0c856070b9b3" />
+
+---
+
+## 🛠 Contributing
+PRs are welcome!  
+Report issues here → [GitHub Issues](https://github.com/Babuprasanth27/my-vscode-extension-1/issues)
+
+---
+
+## 📜 License
+MIT © [BabuprasanthR](https://github.com/Babuprasanth27)
